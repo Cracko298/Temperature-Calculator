@@ -6,4 +6,5 @@ A Simple Temperature Calculator. Supports Kelvin, Celsius, &amp; Fahrenheit Conv
 - Rounds to The Nearest ***WHOLE NUMBER***.
 
 # Download:
-- [Download Here]()
+- [Download Here](https://github.com/Cracko298/Temperature-Calculator/releases/download/v1.1/main.py)
+- or Just Visit My [Replit Page](https://replit.com/@Cracko298/Simple-Temperature-Calculator?v=1) & Click "run"
